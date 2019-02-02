@@ -60,7 +60,6 @@
 		3E0259002107BE3C00B8ED69 /* SpaceXAPI_iOS22 */ = {
 			isa = PBXGroup;
 			children = (
-				3E0259012107BE3C00B8ED69 /* AppDelegate.swift */,
 				3E0259172107C7C400B8ED69 /* Model */,
 				3E0259162107C78A00B8ED69 /* View */,
 				3E0259182107C7CC00B8ED69 /* Controller */,
@@ -72,6 +71,7 @@
 		3E0259152107C73300B8ED69 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3E0259012107BE3C00B8ED69 /* AppDelegate.swift */,
 				3E0259082107BE3D00B8ED69 /* Assets.xcassets */,
 				3E0259132107BE9800B8ED69 /* SpaceX-Logo.svg.png */,
 				3E02590D2107BE3D00B8ED69 /* Info.plist */,
